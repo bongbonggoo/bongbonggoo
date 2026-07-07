@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**bongbonggoo/bongbonggoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Projects
 
-Here are some ideas to get you started:
+- [jjam](https://github.com/bongbonggoo/jjam) — 아이디어 축제용 자소서 피드백 서비스 백엔드 (Spring Boot)
+- [ideafestival-frontend](https://github.com/bongbonggoo/ideafestival-frontend) — 같은 서비스의 프론트엔드
+- [TIL](https://github.com/bongbonggoo/TIL) — 매일 배운 것 기록
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bongbonggoo/bongbonggoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bongbonggoo/bongbonggoo/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/bongbonggoo/bongbonggoo/output/github-contribution-grid-snake.svg">
+</picture>
