@@ -6,11 +6,11 @@
 
 ### 🔧 Projects
 
-- [jjam](https://github.com/bongbonggoo/jjam) — 아이디어 축제용 자소서 피드백 서비스 백엔드 (Spring Boot)
-- [ideafestival-frontend](https://github.com/bongbonggoo/ideafestival-frontend) — 같은 서비스의 프론트엔드
+- [jjam](https://github.com/bongbonggoo/jjam) —  면접 준비용 서비스 백엔드 (Spring Boot)
+- [ideafestival-frontend](https://github.com/bongbonggoo/ideafestival-frontend) — 위 서비스의 프론트엔드
 - [TIL](https://github.com/bongbonggoo/TIL) — 매일 배운 것 기록
 
-### 🐾 My Pets (GitAnimals)
+### 🐾 동물원
 
 <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/bongbonggoo"/></a>
 
