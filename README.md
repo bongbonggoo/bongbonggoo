@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1200&color=A18CD1&background=00000000&center=true&vCenter=true&width=600&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EA%BE%B8%EC%A4%80%ED%9E%88+%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94;%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-A18CD1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Powered%20by-%E2%98%95-A18CD1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Studying%20%F0%9F%93%9A-A18CD1?style=flat-square"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a18cd1,100:fbc2eb&height=6" width="100%"/>
 
 ### 🔧 Projects
